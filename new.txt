@@ -1,5 +1,17 @@
-Teksti i ri
+HTML dokumentet mbarojne me .HTML
+
+html dokumentet e kane head edhe body
+
 
 Block elementet e zon komplet view portin, edhe H1 edhe H2, H3...jane bllok elemente
 
 Inline elementet e zon veq pjesen sa jane vet, psh, span...etj.
+
+
+Paragrafi e ka  <p>
+
+Lista e ka  <ul>
+
+   <hr  />  Vize horizontale
+
+   <br  />  rresht hapesir

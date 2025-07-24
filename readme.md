@@ -1,5 +1,1 @@
-# Markdown syntax guide
-
-## Headers
-
-# This is a Heading h1
+Ky eshte projekti im i pare me Visual Studio Code

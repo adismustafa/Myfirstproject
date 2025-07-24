@@ -10,8 +10,15 @@ Inline elementet e zon veq pjesen sa jane vet, psh, span...etj.
 
 Paragrafi e ka  <p>
 
+Titulli e ka <H1> <h2>...
+
+bold  <b> BOLD </b>
+italic <i> ITALIC </i>
+
 Lista e ka  <ul>
 
    <hr  />  Vize horizontale
 
    <br  />  rresht hapesir
+
+      <a href="https://www.google.com">Link</a>   Etiketa kur kemi link

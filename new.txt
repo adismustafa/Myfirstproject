@@ -1,1 +1,5 @@
 Teksti i ri
+
+Block elementet e zon komplet view portin, edhe H1 edhe H2, H3...jane bllok elemente
+
+Inline elementet e zon veq pjesen sa jane vet, psh, span...etj.
